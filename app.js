@@ -225,7 +225,7 @@ process.on('unhaldedRejection', (reason, p) => {
 
 
 let servers = {};
-var prefix = "~"
+var prefix = "t!"
 let blocked = new Array(
   "yolooo",
   "wellp",
