@@ -27,6 +27,7 @@
   "author": "TheOnlyArtz",
   "license": "MIT",
   "dependencies": {
+    "moment": "^2.21.0",
     "axios": "^0.16.2",
     "chalk": "^1.1.3",
     "cheerio": "^1.0.0-rc.1",
